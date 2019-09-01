@@ -10,4 +10,4 @@ The event data is in data/events.json, indexed by each day of the conference the
 - title
 - description
 
-If audience or location are not not available, there valye is '-'.
+If audience or location are not not available, the value is '-'.
